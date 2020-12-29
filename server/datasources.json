@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "mongodb",
+    "port": 27017,
+    "url": "mongodb+srv://Administrador:admin@contaapp.z5u2a.mongodb.net/db?retryWrites=true&w=majority",
+    "password": "admin",
+    "name": "db",
+    "user": "Administrador",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
